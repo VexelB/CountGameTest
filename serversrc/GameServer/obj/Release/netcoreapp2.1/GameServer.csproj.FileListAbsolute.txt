@@ -1,0 +1,16 @@
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/appsettings.Development.json
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/appsettings.json
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.RazorAssemblyInfo.cache
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.RazorAssemblyInfo.cs
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.AssemblyInfoInputs.cache
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.AssemblyInfo.cs
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.RazorTargetAssemblyInfo.cache
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/GameServer1.deps.json
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/GameServer1.runtimeconfig.json
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/GameServer1.runtimeconfig.dev.json
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/GameServer1.dll
+/Users/vexelb/Projects/GameServer/GameServer/bin/Release/netcoreapp2.1/GameServer1.pdb
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer1.dll
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer1.pdb
+/Users/vexelb/Projects/GameServer/GameServer/obj/Release/netcoreapp2.1/GameServer.csprojAssemblyReference.cache

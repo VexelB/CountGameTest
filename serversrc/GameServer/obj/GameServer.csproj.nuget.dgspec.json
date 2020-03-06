@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vexelb/Projects/GameServer/GameServer/GameServer.csproj": {}
+  },
+  "projects": {
+    "/Users/vexelb/Projects/GameServer/GameServer/GameServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vexelb/Projects/GameServer/GameServer/GameServer.csproj",
+        "projectName": "GameServer1",
+        "projectPath": "/Users/vexelb/Projects/GameServer/GameServer/GameServer.csproj",
+        "packagesPath": "/Users/vexelb/.nuget/packages/",
+        "outputPath": "/Users/vexelb/Projects/GameServer/GameServer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vexelb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.15, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.15, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "windows": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
